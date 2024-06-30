@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kristi7707
-- 👀 I’m interested in ... Python programming and in javascript
-- 🌱 I’m currently learning ...python from A to Z
-- 💞️ I’m looking to collaborate on ...in machine learning, web development, AI, 
+- 👀 I’m interested in ... Java, Sql, Angular, spring.
+- 🌱 I’m currently learning ...Java from A to Z
+- 💞️ I’m looking to collaborate on ...in  web development 
 - 📫 How to reach me ...this is my email kristianmosheqaj@live.com
 
 <!---
